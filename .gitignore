@@ -1,0 +1,22 @@
+# Data & model artifacts
+api/
+data/
+garage/
+logs/
+refs/
+results/
+eda/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Env
+.env
+*.env
